@@ -1,6 +1,8 @@
 # 2025-DevOps and Microservices
 ## Service Mesh with HashiCorp Consul 
 
+![Screenshot](https://drive.google.com/uc?export=view&id=1VG3bsdYemrccFwRpUmqlXlgGWNHYMdoQ)
+
 ### 📂 terraform/
 This folder contains Terraform configuration files for provisioning cloud infrastructure and managing settings.
 
